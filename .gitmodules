@@ -1,0 +1,12 @@
+[submodule "cookbooks/sabnzbd"]
+	path = cookbooks/sabnzbd
+	url = https://github.com/agh-cookbooks/sabnzbd.git
+[submodule "cookbooks/bluepill"]
+	path = cookbooks/bluepill
+	url = git://github.com/opscode-cookbooks/bluepill.git
+[submodule "cookbooks/git"]
+	path = cookbooks/git
+	url = git://github.com/opscode-cookbooks/git.git
+[submodule "cookbooks/apt"]
+	path = cookbooks/apt
+	url = git://github.com/opscode-cookbooks/git.git
